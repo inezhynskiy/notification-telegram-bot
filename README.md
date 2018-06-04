@@ -8,11 +8,11 @@ This bot scan group chat for key words and inform the user when key word was det
 
 ## Authors
 
-* **Ihor Niezhynskiy** - *Developed for Nalog.nl* - [inezhynskiy](https://github.com/inezhynskiy)
+* **Ihor Niezhynskiy** - *Developed for Nalog.nl* 
 
 ## License
 
-This project is licensed under the  GNU General Public License v3.0[LICENSE.md](https://github.com/inezhynskiy/notification-telegram-bot/blob/master/LICENSE) file for details
+This project is licensed under the  GNU General Public License v3.0 [LICENSE.md](https://github.com/inezhynskiy/notification-telegram-bot/blob/master/LICENSE) file for details
 
 ## Important
 
